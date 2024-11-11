@@ -6,6 +6,7 @@ package oop_2311103056_fahrezifikrialkhafid;
 public class Main {
 
     public static void main(String[] args) {
+//        test
         System.out.println("\n=============================================================");
         System.out.println("TEST CASE 1: User dengan VIP Card dan Ruang Premium (Private)");
         System.out.println("=============================================================");
