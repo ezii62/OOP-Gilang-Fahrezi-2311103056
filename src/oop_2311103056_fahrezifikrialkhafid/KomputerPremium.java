@@ -1,8 +1,11 @@
 package oop_2311103056_fahrezifikrialkhafid;
 
 /**
- * @author Fahrezi Fikri Al Khafid 2311103056 SI07B
+ * @author Fahrezi Fikri Al Khafid 
+ * 2311103056 
+ * SI07B
  */
+
 public class KomputerPremium extends Komputer {
 
     protected boolean ruangPrivat;
